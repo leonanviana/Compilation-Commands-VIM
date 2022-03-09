@@ -10,7 +10,7 @@ O = entra no modo inserção na linha acima.\
 i = inserir na posição do cursor.\
 I = inserir no inicio da linha atual.\
 a = entra no modo inserção e um caracter a frente aonde o cursor está posicionado.\
-A = entra no modo inserção e independente da posição do cursor ele pula para o final da linha.\
+A = entra no modo inserção e independente da posição do cursor ele pula para o final da linha.
 
 
 
@@ -23,7 +23,7 @@ A = entra no modo inserção e independente da posição do cursor ele pula para
 :x = salvar e sair do VI VIM, mesma coisa que o :wq.\
 ZZ = sair e salvar do Vi VIM, mesma coisa que o :wq e :x.\
 ZQ = sair e não salvar do VI VIM.\
-ESC = retorna ao modo comando, ou seja, saí da inserção.\
+ESC = retorna ao modo comando, ou seja, saí da inserção.
 
 
 
@@ -41,20 +41,20 @@ cw = recorta uma palavra.\
 yw = copia a palaavra.\
 x = apaga um caracter (igual ao Delete).\
 X = apaga um caracter antes do cursos (igual ao backspace).\
-r = faz um replace (substitui o caracter atual pelo novo que quisermos).\
+r = faz um replace (substitui o caracter atual pelo novo que quisermos).
 
 
 
 **VISUAL:**\
 v = modo visual (seleciona um pedaço do texto).\
 CTRL+v = visual block (seleciona um bloco na linha reta).\
-V = visual line (seleciona linhas do texto).\
+V = visual line (seleciona linhas do texto).
 
 
 
 **VOLTANDO E REFAZENDO:**\
 u = voltar (igual ao CTRL+z do windows).\
-CTRL+r = refazendo (igual ao CTRL+SHIFT+z do windows).\
+CTRL+r = refazendo (igual ao CTRL+SHIFT+z do windows).
 
 
 
@@ -67,7 +67,7 @@ gg = vai para a primeira linha do arquivo.\
 G = vai para a última linha do arquivo.\
 M = vai para o meio da tela.\
 H = vai para o topo da tela.\
-L = vai para o final da tela.\
+L = vai para o final da tela.
 
   
   
@@ -82,11 +82,11 @@ L = vai para o final da tela.\
 :split <Nome Arquivo> = divide a tela na horizontal com outro arquivo desejado.\
 :vsplit <Nome Arquivo> = divide a tela na vertical com outro arquivo desejado.\
 :! <Nome comando> = executa o comando no shell e retorno para o VI VIM.\
-!! <Nome comando> = executa copia/cola a saída do comando p/ dentro do arquivo.\
+!! <Nome comando> = executa copia/cola a saída do comando p/ dentro do arquivo.
 
   
  
 **SUBSTITUINDO:**\
 :<Numero linha>s/palavra_antiga/palavra_nova = substitui na linha que informamos a palavra antiga pela nova.\
 :%s/palavra_antiga/palavra_nova = substitui a palavra antiga pela nova uma por linha apenas.\
-:%s/palavra_antiga/palavra_nova/g = substitui a palavra antiga pela nova em todo o arquivo.\
+:%s/palavra_antiga/palavra_nova/g = substitui a palavra antiga pela nova em todo o arquivo.
