@@ -58,7 +58,7 @@ CTRL+r = refazendo (igual ao CTRL+SHIFT+z do windows).\
 
 
 
-**BUSCAS NO ARQUIVO E LOCALICAÇÃO:**\
+**BUSCAS NO ARQUIVO E LOCALIZAÇÃO:**\
 /<Informe a palavra para busca> = irá buscar a palavra no arquivo descendo.\
 ?<Informe a palavra para busca> = irá buscar a palavra subindo o arquivo.\
 n = continua com a busca descendo.\
